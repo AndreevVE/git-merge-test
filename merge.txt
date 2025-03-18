@@ -1,1 +1,1 @@
-Test merge conflict in new branch
+New text in file merge

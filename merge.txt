@@ -1,1 +1,2 @@
 New text in file merge
+edit in new_branch

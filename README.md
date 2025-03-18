@@ -1,4 +1,4 @@
 README.md
 git-merge-test
-Add same text
+Add new text in GitHUb
 
